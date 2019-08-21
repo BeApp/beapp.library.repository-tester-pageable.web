@@ -26,12 +26,13 @@
             "Beapp\\RepositoryTesterBundle\\Pageable\\": "tests"
         }
     },
+    "config": {
+        "sort-packages": true
+    },
+    "minimum-stability": "dev",
     "extra": {
         "branch-alias": {
             "dev-master": "0.4-dev"
         }
-    },
-    "config": {
-        "sort-packages": true
     }
 }
